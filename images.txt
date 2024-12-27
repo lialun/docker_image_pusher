@@ -1,4 +1,3 @@
 lobehub/lobe-chat
 zadam/trilium
 b4tman/squid
-ghost
