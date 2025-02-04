@@ -2,4 +2,6 @@ lobehub/lobe-chat
 zadam/trilium
 triliumnext/notes
 b4tman/squid
-
+redis
+postgres
+postgres:16
