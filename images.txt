@@ -4,4 +4,5 @@ triliumnext/notes
 b4tman/squid
 redis
 postgres
-postgres:16
+maven
+amazoncorretto
