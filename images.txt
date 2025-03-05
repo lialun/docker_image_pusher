@@ -1,4 +1,5 @@
 lobehub/lobe-chat
+lobehub/lobe-chat-pglite
 zadam/trilium
 triliumnext/notes
 b4tman/squid
