@@ -1,9 +1,6 @@
 lobehub/lobe-chat
 lobehub/lobe-chat-pglite
-zadam/trilium
 triliumnext/notes
-b4tman/squid
-redis
-postgres
 maven:3.9-amazoncorretto-21
 amazoncorretto:21
+mugglejinx/owl
