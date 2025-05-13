@@ -3,4 +3,3 @@ lobehub/lobe-chat-pglite
 triliumnext/notes
 maven:3.9-amazoncorretto-21
 amazoncorretto:21
-mugglejinx/owl
