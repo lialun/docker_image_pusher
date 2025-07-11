@@ -1,6 +1,3 @@
-lobehub/lobe-chat
-lobehub/lobe-chat-pglite
-triliumnext/notes
 maven:3.9-amazoncorretto-21
 amazoncorretto:21
 docker.io/library/node:20-alpine
