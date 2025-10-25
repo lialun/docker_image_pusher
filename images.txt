@@ -5,3 +5,4 @@ docker.io/library/nginx:alpine
 gcr.io/distroless/nodejs20-debian12:latest
 mysql:8
 python:3.12-slim
+python:3.12-slim-bullseye
